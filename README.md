@@ -16,3 +16,4 @@
 
 <h3 align="left">Support me:</h3>
 <p align="left"> <a href="https://ko-fi.com/T6T7EWRR6" target"_blank" rel"noreferrer"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="kofi"/> </a> </p
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'T6T7EWRR6');kofiwidget2.draw();</script> 
