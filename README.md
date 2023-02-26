@@ -1,9 +1,9 @@
 <h1 align="center">***Hi 👋, I'm grafitely***</h1>
-<h3 align="center">I uh code badly</h3>
+<h3 align="center">I code badly</h3>
 
-- 🔭 I’m currently working on **Discord bot**
+- 🔭 I’m currently working on **A Physics engine**
 
-- 🌱 I’m currently learning **Javascript, Python, Java**
+- 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
