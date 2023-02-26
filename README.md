@@ -1,5 +1,5 @@
 <h1 align="center">***Hi 👋, I'm grafitely***</h1>
-<h3 align="center">I code badly</h3>
+<h3 align="center">Hello World</h3>
 
 - 🔭 I’m currently working on **A Physics engine**
 
