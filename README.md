@@ -6,12 +6,8 @@
 - 🌱 I’m currently learning **C++**
 
 <div>
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=grafitely" height="150" alt="stats graph"  />
-  </div>
-  <div align="right">
+   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=grafitely" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=grafitely" height="150" alt="languages graph"  />
-  </div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
