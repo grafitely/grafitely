@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true&username=grafitely" height="150" alt="languages graph"  />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/grafitely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grafitely" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4OlX9j6_ww1RyqxzZ8kR9g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grafitely" height="30" width="40" /></a>
