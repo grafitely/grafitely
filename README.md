@@ -10,6 +10,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=grafitely" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_light&locale=en&hide_border=true&username=grafitely" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_light&hide_border=true&username=grafitely" height="150" alt="languages graph"  />
+</div>
+
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/grafitely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grafitely" height="30" width="40" /></a>
