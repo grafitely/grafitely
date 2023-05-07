@@ -19,7 +19,7 @@
         srcset="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_light&hide_border=true&username=grafitely"
         media="(prefers-color-scheme: light)"
     />
-</picture>
+read</picture>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
