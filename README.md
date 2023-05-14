@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oliver!</h1>
+<h1 align="center">Hi, I'm Oliver</h1>
 <h3 align="center">Hello World</h3>
 
 - 🔭 I’m currently working on **a physics engine**
