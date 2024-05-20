@@ -37,6 +37,5 @@
 
 <h3 align="left">Support:</h3>
 <p align="left">
-<a href="https://ko-fi.com/grafitely" target="blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="grafitely" height="40" width="210"/></a>
-<a href="https://www.blender.org/" target="blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+<a href="https://ko-fi.com/grafitely" target="blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="grafitely" height="40"/></a>
 </p>
