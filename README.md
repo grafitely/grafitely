@@ -37,5 +37,5 @@
 
 <h3 align="left">Support:</h3>
 <p>
-<a href="https://ko-fi.com/grafitely"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="grafitely" /></a>
+<a href="https://ko-fi.com/grafitely"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="grafitely" /></a>
 </p><br><br>
