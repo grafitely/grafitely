@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **godot**
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=grafitely" width="400" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=grafitely&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="stats graph"  />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grafitely&show_icons=true&locale=en&hide_border=true&hide_title=true&layout=compact&card_width=320&theme=github_dark&" width="400" alt="languages graph"  />
 </div>
 
