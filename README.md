@@ -7,7 +7,7 @@
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=grafitely&show_icons=true&locale=en&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" width="400" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grafitely&show_icons=true&&hide_border=true&locale=en&hide_title=true&layout=compact&card_width=320&theme=github_dark" width="400" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grafitely&show_icons=true&hide_border=true&locale=en&hide_title=true&layout=compact&card_width=320&theme=github_dark" width="400" alt="languages graph"  />
 </div>
 
 <h3 align="left">Socials:</h3>
