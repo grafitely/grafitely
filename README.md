@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
-<h3 align="center">Hello World</h3>
-
-- 🔭 I’m currently working on **a note to keyboard thing**
-
-- 🌱 I’m currently learning **godot**
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=grafitely&show_icons=true&hide_border=true&locale=en&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark" width="400" alt="stats graph"  />
